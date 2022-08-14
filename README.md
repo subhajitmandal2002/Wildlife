@@ -1,3 +1,3 @@
 # Wildlife
 
-Click to visit website:https://codewebduniya.github.io/Wildlife/
+Click to visit website:https://subhajitmandal2002.github.io/Wildlife/
